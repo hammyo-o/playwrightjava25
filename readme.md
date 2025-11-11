@@ -8,7 +8,7 @@ This project utilizes manual scripting with Playwright and AI-assisted test gene
 
 ## GitHub Actions CI Status
 
-[![Java CI with Maven and Playwright](https://github.com/hammyo-o/playwrightjava25/actions/workflows/main.yml/badge.svg)](https://github.com/hammyo-o/playwrightjava25/actions/workflows/main.yml)
+[![Java CI with Maven and Playwright](https://github.com/hammyo-o/playwrightjava25/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/hammyo-o/playwrightjava25/actions/workflows/main.yml)
 
 ---
 
